@@ -13,6 +13,12 @@
       "image_name": "food.png"
     },
     {
+      "question": "The coin is the answer?",
+      "answer": ["Star Wars", "star wars"],
+      "hint": "space battle",
+      "image_name": "food.png"
+    },
+    {
       "question": "How many months in the year have 28 days?",
       "answer": ["12", "twelve", "all"],
       "hint": "April showers bring May flowers",
